@@ -8,6 +8,6 @@
 
         public string Language { get; set; }
 
-
+        public string Duration { get; set; }
     }
 }
